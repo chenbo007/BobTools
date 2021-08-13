@@ -2,7 +2,6 @@ package com.bob.tools.net
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.bob.tools.net.bean.BaseResult
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
 import kotlinx.coroutines.launch
